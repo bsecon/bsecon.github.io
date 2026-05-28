@@ -1,0 +1,90 @@
+---
+title: "Bastian Schulz"
+description: "Associate Professor of Economics at Aarhus University. Research on macroeconomics, labor and family economics, search and matching, and inequality."
+pagetitle: "Bastian Schulz — Economist, Aarhus University"
+image: profile.jpg
+image-alt: "Portrait of Bastian Schulz"
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:bastian.schulz@econ.au.dk
+    - icon: file-earmark-pdf
+      text: CV
+      href: https://github.com/bsecon/CV/raw/master/CV_Schulz.pdf
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=YOUR_ID
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/YOUR_ID
+    - icon: github
+      text: GitHub
+      href: https://github.com/bsecon
+format:
+  html:
+    toc: false
+---
+
+I am an Associate Professor of Economics at the
+[Department of Economics and Business Economics, Aarhus University](http://econ.au.dk),
+and the [ECONAU](https://econ.au.dk/econau) data manager.
+I serve as an Associate Editor at
+[Empirical Economics](https://link.springer.com/journal/181).
+I hold a PhD in Economics from [LMU Munich](https://www.econ.lmu.de/en).
+
+**Research interests:** macroeconomics, labor and family economics, search
+and matching, inequality.
+
+**Affiliations:** [IZA](http://iza.org) ·
+[CESifo](http://www.cesifo-group.de/ifoHome/research/Network.html) ·
+[RFBerlin](https://www.rfberlin.com) ·
+[GLO](https://glabor.org) ·
+[PIREAU](https://pireau.au.dk/) ·
+[CEFAU](https://econ.au.dk/cefau).
+
+---
+
+## Selected publications
+
+**[Educational Ambition, Marital Sorting, and Inequality](https://github.com/bsecon/Papers/raw/master/AFRSV_September_2025.pdf)**
+with Frederik Almar, Benjamin Friedrich, Ana Reynoso, and Rune Vejlin.
+*Journal of Labor Economics*, accepted 2025.
+
+**[Firm Productivity, Wages, and Sorting](https://www.journals.uchicago.edu/doi/10.1086/722564)**
+with Ben Lochner.
+*Journal of Labor Economics*, 42(1), 2024.
+
+**[Labor Market Dynamics with Sorting](https://doi.org/10.1016/j.jedc.2023.104776)**
+*Journal of Economic Dynamics and Control*, 158, 2024.
+
+[See all publications →](publications.qmd)
+
+---
+
+## Upcoming presentations
+
+- Norwegian School of Economics (NHH), Bergen — November 2026
+- BSE Summer Forum, *The Macroeconomics of Labor Markets*, Barcelona — June 2026 *(by coauthor)*
+- New Developments in the Macroeconomics of Labor Markets, Nuremberg — June 2026
+- Nordic Data Meeting, Uppsala — April 2026
+- Rockwool Foundation, Copenhagen — March 2026
+
+---
+
+## News
+
+**January 2026** — [Job Displacement, Remarriage, and Marital Sorting](https://github.com/bsecon/Papers/raw/master/FOS_Jobloss_Marriage.pdf) is under revision for *American Economic Journal: Macroeconomics*.
+
+**November 2025** — New grant from the [Danish e-infrastructure Consortium](https://www.deic.dk/en/front) (DeiC), including computation time at the European supercomputer [LUMI](https://www.lumi-supercomputer.eu/).
+
+**October 2025** — New grant from the [Independent Research Fund Denmark](https://dff.dk/en/about-the-fund/news-and-press/all-news/news-uk/2025/oktober/182-new-ideas-and-original-research-projects-take-flight/) for the project *Disentangling the Interplay of Marriage, Divorce, Fertility, and Work* (joint with Frederik Almar, Edoardo Ciscato, Hanno Foerster, Andrew Shephard, and Guanyi Wang).
+
+**October 2025** — [Educational Ambition, Marital Sorting, and Inequality](https://github.com/bsecon/Papers/raw/master/AFRSV_September_2025.pdf) accepted at *Journal of Labor Economics*.
+
+**April 2025** — Media coverage in [Weekendavisen: *Golddiggermyten*](https://www.weekendavisen.dk/2025-15/ideer/golddiggermyten).
+
+**January 2025** — New working paper: [Families' Career Investments and Firms' Promotion Decisions](https://github.com/bsecon/Papers/raw/master/AFRSV_families_and_firms.pdf) — also out as [NBER WP 33438](https://www.nber.org/papers/w33438), [IZA DP 17367](https://www.iza.org/publications/dp/17653), and [CESifo WP 11659](https://www.cesifo.org/en/publications/2025/working-paper/families-career-investments-and-firms-promotion-decisions).

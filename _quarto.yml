@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Bastian Schulz"
+  description: "Associate Professor of Economics at Aarhus University. Research on macroeconomics, labor and family economics, search and matching, and inequality."
+  site-url: "https://bastianschulz.com"   # replace with your custom domain
+  favicon: favicon.ico
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
+
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: publications.qmd
+        text: Publications
+      - href: research.qmd
+        text: Current Research
+      - href: workshops.qmd
+        text: Workshops
+      - href: teaching.qmd
+        text: Teaching & Supervision
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: envelope
+        href: mailto:bastian.schulz@econ.au.dk
+      - icon: github
+        href: https://github.com/bsecon
+
+  page-footer:
+    left: "© Bastian Schulz"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
