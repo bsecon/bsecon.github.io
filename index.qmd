@@ -19,12 +19,9 @@ about:
     - icon: file-earmark-pdf
       text: CV
       href: https://github.com/bsecon/CV/raw/master/CV_Schulz.pdf
-    - icon: mortarboard
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=YOUR_ID
     - icon: person-badge
       text: ORCID
-      href: https://orcid.org/YOUR_ID
+      href: https://orcid.org/0000-0002-2493-0865
     - icon: github
       text: GitHub
       href: https://github.com/bsecon
