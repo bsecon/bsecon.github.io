@@ -1,0 +1,37 @@
+---
+title: "Workshops"
+---
+
+Aarhus University has a rich history of organizing conferences on markets with search frictions. Dale T. Mortensen (Nobel laureate, 2010) started cooperating with Aarhus University researchers in the early 1980s, and conferences have been organised regularly since then. We continue this tradition today.
+
+Below is a list of recent workshops I co-organized.
+
+## The 1st Aarhus Workshop on Labor Markets
+
+The workshop brings together researchers who study labor markets from various perspectives.
+
+Oct 22–24, 2025 · Aarhus University, Denmark.
+
+[Workshop program](https://github.com/bsecon/Papers/raw/master/Program_final.pdf)
+
+A second edition is planned for 2027.
+
+---
+
+## The 5th Dale T. Mortensen Centre Conference
+
+Conference on Markets with Search Frictions.
+
+November 2–4, 2023 · Sandbjerg Manor, Denmark.
+
+[Workshop program](https://github.com/bsecon/Papers/raw/master/Program%20DTMC%20fall%202023.pdf)
+
+---
+
+## Interactions between Labor and Marriage Markets
+
+Workshop on Interactions between Labor and Marriage Markets.
+
+April 6–8, 2022 · Søauditorierne, Aarhus University, Denmark.
+
+[Workshop program](https://github.com/bsecon/Papers/raw/master/Program_DTMC_Marriage_Workshop.pdf)

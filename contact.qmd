@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+**Email:** [bastian.schulz@econ.au.dk](mailto:bastian.schulz@econ.au.dk)
+
+**Affiliation:**
+
+Department of Economics and Business Economics
+Aarhus University
+Fuglesangs Allé 4
+8210 Aarhus V
+Denmark
+
+**On the web:** [GitHub](https://github.com/bsecon) · [Aarhus University staff page](https://pure.au.dk/portal/en/persons/bastian.schulz) · [IZA](https://www.iza.org/person/15015/bastian-schulz) · [CESifo](https://www.cesifo.org/en/person/Bastian-Schulz)

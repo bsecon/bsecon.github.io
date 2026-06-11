@@ -1,0 +1,59 @@
+---
+title: "Current Research"
+---
+
+## Working Papers
+
+### Joint Labor Search and the Tax-Transfer System
+
+with [Piotr Denderski](https://sites.google.com/site/piotrdenderski/), [Leo Kaas](https://sites.google.com/site/leojkaas/), and [Nawid Siassi](http://jsiassi.de/nsiassi/). June 2026.
+
+[[Preliminary Draft](https://github.com/bsecon/Papers/raw/master/DKSS_JointSearch.pdf)]
+
+Presented at (selection): Families and Macroeconomics Conference 2025 (Edesheim/University of Mannheim), European Economic Association (Bordeaux), European Search and Matching Conference 2025 (Vilnius), Third DC Search and Matching Workshop (poster), Goethe University Frankfurt, German Economic Association (Verein für Socialpolitik).
+
+> In many countries, income is taxed at the household level with a progressive tax schedule. This paper analyzes the impact of joint progressive taxation for employment and wages of dual-earner households in the presence of labor market frictions. We develop a directed search model in which firms offer wage contracts to workers in single and couple households, anticipating that workers may quit into other jobs or non-employment in response to spousal income and the tax system. The model is calibrated to replicate job-finding, job-to-job transition, layoff and quit rates of the U.S. labor market, and a progressive joint tax schedule and UI benefits at the individual level. When comparing the benchmark economy to a counterfactual scenario with individual taxation, we find that replacing the tax rules for couples with those for singles reduces the share of non-employed workers by one-tenth. Furthermore, it increases wages by about 6 percent.
+
+---
+
+### Job Displacement, Remarriage, and Marital Sorting
+
+with [Hanno Foerster](http://hannofoerster.com/) and [Tim Obermeier](https://sites.google.com/view/timobermeier/home). August 2025.
+
+R&R, *American Economic Journal: Macroeconomics*.
+
+Older versions: [[IZA DP No. 17335](https://docs.iza.org/dp17335.pdf)] [[CESifo WP No. 11387](https://www.cesifo.org/en/publications/2024/working-paper/job-displacement-remarriage-and-marital-sorting)] [[CEP DP No. 2045](https://cep.lse.ac.uk/_new/publications/abstract.asp?index=11224)], September 2024.
+
+Presented at (selection): NBER SI (Micro and Macro Perspectives of the Aggregate Labor Market), BSE Summer Forum (Income Dynamics and the Family), SED (Minneapolis), University of Copenhagen, UNC Chapel Hill, Western University, KU Leuven.
+
+> We investigate how job displacement affects whom men marry and study implications for marriage market matching theory. Leveraging quasi-experimental variation from Danish establishment closures, we show that job displacement leads men to break up if matched with low-earning women and to re-match with higher earning women. We use a general search and matching model of the marriage market to derive several implications of our empirical findings: (i) husbands' and wives' incomes are substitutes rather than complements in the marriage market; (ii) our findings are hard to reconcile with one-dimensional matching but are consistent with multidimensional matching; (iii) a substantial part of the cross-sectional correlation between spouses' incomes arises spuriously from sorting on unobserved characteristics. We highlight the quantitative importance of our findings by simulating how patterns of marital sorting either amplify or dampen the transmission of individual-level inequality to between-household inequality.
+
+---
+
+### Families' Career Investments and Firms' Promotion Decisions
+
+with [Frederik Almar](https://sites.google.com/view/frederikalmar), [Benjamin Friedrich](https://sites.google.com/site/benjaminufriedrich/), [Ana Reynoso](https://sites.lsa.umich.edu/ana-reynoso/), and [Rune Vejlin](https://sites.google.com/site/econrunevejlin/home). January 2025.
+
+[[Paper](https://github.com/bsecon/Papers/raw/master/AFRSV_families_and_firms.pdf)] [[Online Appendix](https://github.com/bsecon/Papers/raw/master/AFRSV_families_and_firms_OnlineAppendix.pdf)]
+
+Also: [[NBER WP No. 33438](https://www.nber.org/papers/w33438)] [[IZA DP No. 17653](https://www.iza.org/publications/dp/17653)] [[CESifo WP No. 11659](https://www.cesifo.org/en/publications/2025/working-paper/families-career-investments-and-firms-promotion-decisions)].
+
+Media coverage: [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/work-first-or-family-first) (1/10/2025).
+
+Presented at (selection): Stanford University, Yale University (Cowles Foundation conference), University of Wisconsin–Madison, Northwestern Kellogg, University of Michigan, Western University, US Census Bureau, UCLA, University of Mannheim, Columbia University, Arizona State University, ASSA meetings (San Antonio), Southern Economic Association (New Orleans), LMU Munich, Binghamton SUNY.
+
+> This paper studies how family and firm investments interact to explain gender gaps in career achievement. Using Danish administrative data, we first document novel evidence of this interaction through a "spousal effect" on firm-side career investments. This effect is accounted for by family labor supply choices that shape worker characteristics, which then influence firms' training and promotion decisions. Our main theoretical contribution is to develop a quantitative life cycle model that captures these family-firm interactions through household formation, families' joint career and fertility choices, and firms' managerial training and promotion decisions. We then use the estimated model to show that the interaction between families and firms in the joint equilibrium of labor and marriage markets is important when evaluating firm-side and family-side policy interventions. We find that gender-equal parental leave and a managerial quota can both improve gender equality, but leave implies costly skill depreciation, whereas the quota raises aggregate welfare, in part through adjustments in marital sorting towards families that invest in women.
+
+---
+
+### Marriage and Divorce under Labor Market Uncertainty
+
+with [Christian Holzner](https://www.en.pe.econ.uni-muenchen.de/team/postdocs/holzner/index.html). March 2023.
+
+[[Paper](https://github.com/bsecon/Papers/raw/master/HS_Marriage.pdf)]
+
+Media coverage: [Frankfurter Allgemeine Sonntagszeitung](https://zeitung.faz.net/fas/wirtschaft/2024-01-14/6abfef661c830d805741c4abff3c7021/?popup=user.lf-ns) (14/1/2024, in German).
+
+Presented at (selection): NBER SI (Micro and Macro Perspectives of the Aggregate Labor Market), BSE Summer Forum (Income Dynamics and the Family), University of Mannheim, Helsinki GSE, Nordic Summer Symposium in Macroeconomics and Finance.
+
+> Married women's greater allocation of time towards household chores and childcare suggests that an increase in their labor supply may result in reduced marital surplus and stability. This mechanism can explain persistent gender gaps in labor supply if the potential reduction is considered in decisions about reservation wages and job search efforts. An implication is that divorces may be caused by transitions into employment. This paper analyzes these "labor market divorces" in a novel model of simultaneous search in labor and marriage markets. Labor market search intensity choices depend on marital status and the partner's type. The model matches key trends in German household survey data: declining marriage rates, increasing employment rates of married women, and a reduction of married women's domestic time inputs. Our laboratory to quantify the role of labor market divorces is a period of rapid employment growth in Germany that started in the mid-2000s. This development in the labor market was not neutral with respect to marriage. Although more married women entering employment led to more divorces, the decrease in divorces caused by job loss among married men was greater, resulting in a net decrease in the overall divorce rate.

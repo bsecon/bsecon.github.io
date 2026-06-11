@@ -5,11 +5,14 @@ project:
 website:
   title: "Bastian Schulz"
   description: "Associate Professor of Economics at Aarhus University. Research on macroeconomics, labor and family economics, search and matching, and inequality."
-  site-url: "https://bastianschulz.com"   # replace with your custom domain
+  site-url: "https://bsecon.github.io"
+  image: og_card.jpg
   favicon: favicon.ico
-  open-graph: true
+  open-graph:
+    image: og_card.jpg
   twitter-card:
     card-style: summary_large_image
+    image: og_card.jpg
 
   navbar:
     pinned: true

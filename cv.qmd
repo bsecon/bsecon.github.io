@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+
+My full CV is available as a PDF.
+
+[Download CV](https://github.com/bsecon/CV/raw/master/CV_Schulz.pdf){.btn .btn-primary role="button"}
+
+The source is on [GitHub](https://github.com/bsecon/CV) — the link above always serves the latest version.

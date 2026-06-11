@@ -1,0 +1,67 @@
+---
+title: "Publications"
+---
+
+## Educational Ambition, Marital Sorting, and Inequality
+
+with [Frederik Almar](https://sites.google.com/view/frederikalmar), [Benjamin Friedrich](https://sites.google.com/site/benjaminufriedrich/), [Ana Reynoso](https://sites.lsa.umich.edu/ana-reynoso/), and [Rune Vejlin](https://sites.google.com/site/econrunevejlin/home).
+
+*Journal of Labor Economics*, accepted, October 2025.
+
+[[Accepted version](https://github.com/bsecon/Papers/raw/master/AFRSV_ambition_sorting_JOLE_manuscript_final.pdf)] [[Online Appendix](https://github.com/bsecon/Papers/raw/master/AFRSV_ambition_sorting_JOLE_Online_Appendix.pdf)] [[Replication Package](https://doi.org/10.7910/DVN/Y6JT1S)]
+
+Earlier versions: [[NBER WP No 33683](https://www.nber.org/papers/w33683)] [[IZA DP No. 17814](https://www.iza.org/publications/dp/17814)].
+
+Previous title *Marital Sorting and Inequality: How Educational Categorization Matters* — [[IZA DP No. 15912](https://docs.iza.org/dp15912.pdf)] [[CESifo WP No. 10265](https://www.cesifo.org/en/publications/2023/working-paper/marital-sorting-and-inequality-how-educational-categorization)].
+
+Media coverage: [Weekendavisen](https://www.weekendavisen.dk/2023-11/ideer/straeber-soeger-mage) (17/3/2023, in Danish) · [Interview with Frederik Almar on Dansk Radio P1](https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023-03-20) (20/3/2023, from 41:25, in Danish) · [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/marriage-choices-income-inequality) (1/4/2023) · [Frankfurter Allgemeine Sonntagszeitung](https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/weniger-scheidungen-dank-hartz-reformen-am-arbeitsmarkt-19444550.html) (14/1/2024, in German) · [New York Times](https://www.nytimes.com/2024/02/07/opinion/dating-politics.html?unlocked_article_code=1.UE0.2MFp.Y7G5Z3DrPKrs&smid=url-share) (7/2/2024) · [Weekendavisen](https://www.weekendavisen.dk/2025-15/ideer/golddiggermyten) (11/4/2025, in Danish).
+
+> This paper revisits the link between education-based marriage market sorting and income inequality. Leveraging Danish administrative data, we develop a novel categorization of "ambition types" that is based on the labor market returns of detailed educational programs. In contrast to commonly-used education-based categorizations, we find a substantial increase in positive assortative matching by educational ambition over time. Moreover, changes in household composition by ambition explain more than 35% of increasing inequality since 1980. We conclude that the mapping from education to types matters crucially for conclusions about how education-based marriage market sorting contributes to rising income inequality.
+
+---
+
+## Firm Productivity, Wages, and Sorting
+
+with [Ben Lochner](https://sites.google.com/view/benjaminlochner/about).
+
+*Journal of Labor Economics*, 42(1), January 2024.
+
+[[Journal website](https://www.journals.uchicago.edu/doi/10.1086/722564)] [[Accepted version](https://github.com/bsecon/Papers/raw/master/LS_Sorting.pdf)] [[Online Appendix](https://github.com/bsecon/Papers/raw/master/LS_Sorting_Appendix.pdf)]
+
+> We study the link between firm productivity and the wages that firms pay. Guided by a search-matching model with large firms, worker and firm heterogeneity, and production complementarities, we infer firm productivity by estimating firm-level production functions. Using German data, we find that the most productive firms do not pay the highest wages. Worker transitions from high- to medium-productivity firms are on average associated with wage gains. Productivity sorting, that is, the sorting of high-ability workers into high-productivity firms, is less pronounced than the sorting into high-wage firms.
+
+---
+
+## Labor Market Dynamics with Sorting
+
+*Journal of Economic Dynamics and Control*, 158, January 2024.
+
+[[Journal website](https://doi.org/10.1016/j.jedc.2023.104776)] [[Accepted version](https://github.com/bsecon/Papers/raw/master/Schulz_Sorting.pdf)] [[IZA DP No. 16467](https://docs.iza.org/dp16467.pdf)]
+
+> I study a dynamic search-matching model with two-sided heterogeneity, a production complementarity that induces labor market sorting, and aggregate shocks. In response to a positive productivity shock, incentives to sort increase disproportionately. Firms respond by posting additional vacancies, and the strength of the response is increasing in firm productivity. The distribution of unemployment worker types adjusts slowly, which amplifies job creation in the short run. In the long run, falling unemployment curtails the firms' vacancy posting. The model closely matches time-series moments from U.S. labor market data and produces realistic degrees of wage dispersion and labor market sorting.
+
+---
+
+## Optimal Weights for Marital Sorting Measures
+
+with [Frederik Almar](https://sites.google.com/view/frederikalmar).
+
+*Economics Letters*, 234, January 2024.
+
+[[Journal website](https://doi.org/10.1016/j.econlet.2023.111497)] [[Accepted version](https://github.com/bsecon/Papers/raw/master/AS_sorting_weights.pdf)] [[Online Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0165176523005232-mmc1.pdf)] [[IZA DP No. 16368](https://docs.iza.org/dp16368.pdf)] [[CESifo WP No. 10604](https://www.cesifo.org/en/publications/2023/working-paper/optimal-weights-marital-sorting-measures)]
+
+> Changing distributions of male and female types affect the measurement of education-based marriage market sorting. We develop a weighting strategy that minimizes the distortion of sorting measures due to changing type distributions. The optimal weights reflect that female type distributions have changed relatively more in recent decades. Based on our weighted measure, we document increasing sorting in Denmark between 1980 and 2018. Alternative measures suggest flat or decreasing trends.
+
+---
+
+## Marriage and Divorce: The Role of Unemployment Insurance
+
+with [Fabian Siuda](https://sites.google.com/site/fabiansiuda).
+
+*Journal of Population Economics*, 36(4), October 2023.
+
+[[Journal website](https://link.springer.com/article/10.1007/s00148-023-00961-1)] [[Accepted version](https://github.com/bsecon/Papers/raw/master/Schulz_Siuda_Marriage.pdf)] [[Online Appendix](https://github.com/bsecon/Papers/raw/master/Schulz_Siuda_Marriage_Appendix.pdf)]
+
+Media coverage: [Der Standard, Ökonomieblog](https://www.derstandard.at/story/3000000185790/wie-der-arbeitsmarkt-die-partnerwahl-beeinflusst?ref=article) · [Frankfurter Allgemeine Sonntagszeitung](https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/weniger-scheidungen-dank-hartz-reformen-am-arbeitsmarkt-19444550.html)
+
+> This paper examines how changes in household-level risk sharing affect the marriage market. We use a German unemployment insurance (UI) reform that tightened means-testing based on the partner's income as our laboratory. The reduced generosity of UI increased the demand for household-level risk sharing, which lowered the attractiveness of individuals exposed to unemployment risk. Because unemployment risk correlates with non-German nationality, our main finding is that the UI reform led to a decrease in intermarriage. The 2004 expansion of the European Union had a comparable effect on intermarriage for the affected nationalities. Both reforms increased marital stability, which is consistent with a better selection of couples.
