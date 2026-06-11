@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bastianschulz.com/index.html</loc>
-    <lastmod>2026-05-28T17:58:25.266Z</lastmod>
+    <loc>https://bsecon.github.io/research.html</loc>
+    <lastmod>2026-06-11T16:15:49.735Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bsecon.github.io/publications.html</loc>
+    <lastmod>2026-06-11T16:15:49.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bsecon.github.io/workshops.html</loc>
+    <lastmod>2026-06-11T16:15:49.735Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bsecon.github.io/contact.html</loc>
+    <lastmod>2026-06-11T16:15:49.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bsecon.github.io/cv.html</loc>
+    <lastmod>2026-06-11T16:15:49.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bsecon.github.io/teaching.html</loc>
+    <lastmod>2026-06-11T16:15:49.735Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bsecon.github.io/index.html</loc>
+    <lastmod>2026-06-11T16:15:49.734Z</lastmod>
   </url>
 </urlset>

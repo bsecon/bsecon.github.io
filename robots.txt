@@ -1,1 +1,1 @@
-Sitemap: https://bastianschulz.com/sitemap.xml
+Sitemap: https://bsecon.github.io/sitemap.xml
