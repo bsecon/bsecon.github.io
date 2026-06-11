@@ -56,7 +56,7 @@ and matching, inequality.
 
 **[Educational Ambition, Marital Sorting, and Inequality](https://github.com/bsecon/Papers/raw/master/AFRSV_September_2025.pdf)**
 with Frederik Almar, Benjamin Friedrich, Ana Reynoso, and Rune Vejlin.
-*Journal of Labor Economics*, accepted 2025.
+*Journal of Labor Economics*, forthcoming.
 
 **[Firm Productivity, Wages, and Sorting](https://www.journals.uchicago.edu/doi/10.1086/722564)**
 with Ben Lochner.
@@ -72,6 +72,8 @@ with Ben Lochner.
 ## Upcoming presentations
 
 - Norwegian School of Economics (NHH), Bergen — November 2026
+- Families in Macroeconomics, London - September 2026
+- Konstanz Macro-Labor Workshop, Konstanz - June 2026 *(by coauthor)*
 - BSE Summer Forum, *The Macroeconomics of Labor Markets*, Barcelona — June 2026 *(by coauthor)*
 - New Developments in the Macroeconomics of Labor Markets, Nuremberg — June 2026
 - Nordic Data Meeting, Uppsala — April 2026
