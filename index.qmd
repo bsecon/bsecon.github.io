@@ -69,8 +69,6 @@ with Ben Lochner.
 
 ---
 
-![Presenting at the European Search and Matching Conference (SaM), May 2025.](talk_photo.jpg){fig-alt="Bastian Schulz speaking at a podium with red background at SaM 2025"}
-
 ## Upcoming presentations
 
 - Norwegian School of Economics (NHH), Bergen — November 2026
