@@ -4,6 +4,10 @@ description: "Associate Professor of Economics at Aarhus University. Research on
 pagetitle: "Bastian Schulz — Economist, Aarhus University"
 image: profile.jpg
 image-alt: "Portrait of Bastian Schulz"
+open-graph:
+  image: og_card.jpg
+twitter-card:
+  image: og_card.jpg
 about:
   template: trestles
   image-shape: round
