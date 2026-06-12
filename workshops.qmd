@@ -2,9 +2,7 @@
 title: "Workshops"
 ---
 
-![Sandbjerg Manor — venue for the 5th Dale T. Mortensen Centre Conference.](workshops_photo.jpg){fig-alt="Yellow facade of Sandbjerg Manor in Denmark, with lawn and gravel path in the foreground"}
-
-<small>Photo: [PodracerHH](https://commons.wikimedia.org/wiki/User:PodracerHH), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schloss_Sandbjerg_DK.JPG).</small>
+![Sandbjerg Manor — venue for the 5th Dale T. Mortensen Centre Conference. Photo: [PodracerHH](https://commons.wikimedia.org/wiki/User:PodracerHH), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schloss_Sandbjerg_DK.JPG).](workshops_photo.jpg){fig-alt="Yellow facade of Sandbjerg Manor in Denmark, with lawn and gravel path in the foreground"}
 
 Aarhus University has a rich history of organizing conferences on markets with search frictions. Dale T. Mortensen (Nobel laureate, 2010) started cooperating with Aarhus University researchers in the early 1980s, and conferences have been organised regularly since then. We continue this tradition today.
 
