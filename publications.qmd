@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+![Keywords from my published research.](publications_library.jpg){fig-alt="Bookshelf with research keywords on the spines"}
+
 ## Educational Ambition, Marital Sorting, and Inequality
 
 with [Frederik Almar](https://sites.google.com/view/frederikalmar), [Benjamin Friedrich](https://sites.google.com/site/benjaminufriedrich/), [Ana Reynoso](https://sites.lsa.umich.edu/ana-reynoso/), and [Rune Vejlin](https://sites.google.com/site/econrunevejlin/home).
