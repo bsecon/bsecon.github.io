@@ -2,6 +2,10 @@
 title: "Contact"
 ---
 
+![Universitetsbyen, Aarhus University — opening day, 22 May 2026.](contact_photo.jpg){fig-alt="Aerial view of Universitetsbyen with the round Byauditoriet, red-brick faculty buildings, opening-day crowds in the central square, and the Aarhus harbour in the background"}
+
+<small>Photo: AU Foto / Jens Hartmann Schmidt.</small>
+
 **Email:** [bastian.schulz@econ.au.dk](mailto:bastian.schulz@econ.au.dk)
 
 **Affiliation:**
