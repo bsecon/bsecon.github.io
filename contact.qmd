@@ -6,10 +6,9 @@ title: "Contact"
 
 **Affiliation:**
 
-Department of Economics and Business Economics
-Aarhus University
-Fuglesangs Allé 4
-8210 Aarhus V
-Denmark
+Aarhus University\
+Department of Economics and Business Economics\
+Universitetsbyen 51\
+8000 Aarhus C, Denmark
 
 **On the web:** [GitHub](https://github.com/bsecon) · [Aarhus University Pure](https://pure.au.dk/portal/en/persons/bastian.schulz@econ.au.dk) · [IZA](https://www.iza.org/people/affiliates/21750/bastian-schulz) · [CESifo](https://www.ifo.de/en/cesifo/network-member/schulz-bastian)
