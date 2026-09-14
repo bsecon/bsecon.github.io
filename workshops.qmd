@@ -6,7 +6,17 @@ title: "Workshops"
 
 Aarhus University has a rich history of organizing conferences on markets with search frictions. Dale T. Mortensen (Nobel laureate, 2010) started cooperating with Aarhus University researchers in the early 1980s, and conferences have been organised regularly since then. We continue this tradition today.
 
-Below is a list of recent workshops I co-organized.
+Below is a list of upcoming and recent workshops I co-organized.
+
+## Macroeconomics, Labor Markets, and Families
+
+Workshop co-organized with [Annaïg Morin](https://www.cbs.dk/en/research/departments/department-economics/annaig-morin).
+
+October 8–9, 2026 · Copenhagen Business School, Denmark.
+
+[Workshop program](https://github.com/bsecon/Papers/raw/master/Workshop_Program_CBS.pdf)
+
+---
 
 ## The 1st Aarhus Workshop on Labor Markets
 

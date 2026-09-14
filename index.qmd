@@ -69,13 +69,18 @@ with Ben Lochner.
 
 ---
 
+## Next workshop
+
+Together with [Annaïg Morin](https://www.cbs.dk/en/research/departments/department-economics/annaig-morin), I am hosting a workshop on *Macroeconomics, Labor Markets, and Families* at CBS in Copenhagen on 8–9 October 2026. [See the program](https://github.com/bsecon/Papers/raw/master/Workshop_Program_CBS.pdf).
+
+---
+
 ## Upcoming presentations
 
+- Structural Micro Conference, Rice University — November 2026 *(by coauthor)*
 - Norwegian School of Economics (NHH), Bergen — November 2026
-- Families in Macroeconomics, London - September 2026
-- Konstanz Macro-Labor Workshop, Konstanz - June 2026 *(by coauthor)*
-- BSE Summer Forum, *The Macroeconomics of Labor Markets*, Barcelona — June 2026 *(by coauthor)*
-- New Developments in the Macroeconomics of Labor Markets, Nuremberg — June 2026
+- Workshop on Macroeconomics, Labor Markets, and Families, Copenhagen — October 2026
+- Families in Macroeconomics, LSE — September 2026
 
 ---
 
