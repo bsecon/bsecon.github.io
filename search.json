@@ -1,17 +1,87 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Current Research",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Presenting at the European Search and Matching Conference (SaM), May 2025."
+    "text": "My full CV is available as a PDF.\nDownload CV\nThe source is on GitHub — the link above always serves the latest version."
   },
   {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Current Research",
-    "section": "Working Papers",
-    "text": "Working Papers\n\nJoint Labor Search and the Tax-Transfer System\nwith Piotr Denderski, Leo Kaas, and Nawid Siassi. June 2026.\n[Preliminary Draft]\nPresented at (selection): Families and Macroeconomics Conference 2025 (Edesheim/University of Mannheim), European Economic Association (Bordeaux), European Search and Matching Conference 2025 (Vilnius), Third DC Search and Matching Workshop (poster), Goethe University Frankfurt, German Economic Association (Verein für Socialpolitik).\n\nIn many countries, income is taxed at the household level with a progressive tax schedule. This paper analyzes the impact of joint progressive taxation for employment and wages of dual-earner households in the presence of labor market frictions. We develop a directed search model in which firms offer wage contracts to workers in single and couple households, anticipating that workers may quit into other jobs or non-employment in response to spousal income and the tax system. The model is calibrated to replicate job-finding, job-to-job transition, layoff and quit rates of the U.S. labor market, and a progressive joint tax schedule and UI benefits at the individual level. When comparing the benchmark economy to a counterfactual scenario with individual taxation, we find that replacing the tax rules for couples with those for singles reduces the share of non-employed workers by one-tenth. Furthermore, it increases wages by about 6 percent.\n\n\n\n\nJob Displacement, Remarriage, and Marital Sorting\nwith Hanno Foerster and Tim Obermeier. August 2025.\nR&R, American Economic Journal: Macroeconomics.\nOlder versions: [IZA DP No. 17335] [CESifo WP No. 11387] [CEP DP No. 2045], September 2024.\nPresented at (selection): NBER SI (Micro and Macro Perspectives of the Aggregate Labor Market), BSE Summer Forum (Income Dynamics and the Family), SED (Minneapolis), University of Copenhagen, UNC Chapel Hill, Western University, KU Leuven.\n\nWe investigate how job displacement affects whom men marry and study implications for marriage market matching theory. Leveraging quasi-experimental variation from Danish establishment closures, we show that job displacement leads men to break up if matched with low-earning women and to re-match with higher earning women. We use a general search and matching model of the marriage market to derive several implications of our empirical findings: (i) husbands’ and wives’ incomes are substitutes rather than complements in the marriage market; (ii) our findings are hard to reconcile with one-dimensional matching but are consistent with multidimensional matching; (iii) a substantial part of the cross-sectional correlation between spouses’ incomes arises spuriously from sorting on unobserved characteristics. We highlight the quantitative importance of our findings by simulating how patterns of marital sorting either amplify or dampen the transmission of individual-level inequality to between-household inequality.\n\n\n\n\nFamilies’ Career Investments and Firms’ Promotion Decisions\nwith Frederik Almar, Benjamin Friedrich, Ana Reynoso, and Rune Vejlin. January 2025.\n[Paper] [Online Appendix]\nAlso: [NBER WP No. 33438] [IZA DP No. 17653] [CESifo WP No. 11659].\nMedia coverage: Kellogg Insight (1/10/2025).\nPresented at (selection): Stanford University, Yale University (Cowles Foundation conference), University of Wisconsin–Madison, Northwestern Kellogg, University of Michigan, Western University, US Census Bureau, UCLA, University of Mannheim, Columbia University, Arizona State University, ASSA meetings (San Antonio), Southern Economic Association (New Orleans), LMU Munich, Binghamton SUNY.\n\nThis paper studies how family and firm investments interact to explain gender gaps in career achievement. Using Danish administrative data, we first document novel evidence of this interaction through a “spousal effect” on firm-side career investments. This effect is accounted for by family labor supply choices that shape worker characteristics, which then influence firms’ training and promotion decisions. Our main theoretical contribution is to develop a quantitative life cycle model that captures these family-firm interactions through household formation, families’ joint career and fertility choices, and firms’ managerial training and promotion decisions. We then use the estimated model to show that the interaction between families and firms in the joint equilibrium of labor and marriage markets is important when evaluating firm-side and family-side policy interventions. We find that gender-equal parental leave and a managerial quota can both improve gender equality, but leave implies costly skill depreciation, whereas the quota raises aggregate welfare, in part through adjustments in marital sorting towards families that invest in women.\n\n\n\n\nMarriage and Divorce under Labor Market Uncertainty\nwith Christian Holzner. March 2023.\n[Paper]\nMedia coverage: Frankfurter Allgemeine Sonntagszeitung (14/1/2024, in German).\nPresented at (selection): NBER SI (Micro and Macro Perspectives of the Aggregate Labor Market), BSE Summer Forum (Income Dynamics and the Family), University of Mannheim, Helsinki GSE, Nordic Summer Symposium in Macroeconomics and Finance.\n\nMarried women’s greater allocation of time towards household chores and childcare suggests that an increase in their labor supply may result in reduced marital surplus and stability. This mechanism can explain persistent gender gaps in labor supply if the potential reduction is considered in decisions about reservation wages and job search efforts. An implication is that divorces may be caused by transitions into employment. This paper analyzes these “labor market divorces” in a novel model of simultaneous search in labor and marriage markets. Labor market search intensity choices depend on marital status and the partner’s type. The model matches key trends in German household survey data: declining marriage rates, increasing employment rates of married women, and a reduction of married women’s domestic time inputs. Our laboratory to quantify the role of labor market divorces is a period of rapid employment growth in Germany that started in the mid-2000s. This development in the labor market was not neutral with respect to marriage. Although more married women entering employment led to more divorces, the decrease in divorces caused by job loss among married men was greater, resulting in a net decrease in the overall divorce rate."
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Sandbjerg Manor, 5th DTMC Conference venue. Photo: PodracerHH (Wikimedia, CC BY-SA 3.0).\nAarhus University has a rich history of organizing conferences on markets with search frictions. Dale T. Mortensen (Nobel laureate, 2010) started cooperating with Aarhus University researchers in the early 1980s, and conferences have been organised regularly since then. We continue this tradition today.\nBelow is a list of recent workshops I co-organized."
+  },
+  {
+    "objectID": "workshops.html#the-1st-aarhus-workshop-on-labor-markets",
+    "href": "workshops.html#the-1st-aarhus-workshop-on-labor-markets",
+    "title": "Workshops",
+    "section": "The 1st Aarhus Workshop on Labor Markets",
+    "text": "The 1st Aarhus Workshop on Labor Markets\nThe workshop brings together researchers who study labor markets from various perspectives.\nOct 22–24, 2025 · Aarhus University, Denmark.\nWorkshop program\nA second edition is planned for 2027."
+  },
+  {
+    "objectID": "workshops.html#the-5th-dale-t.-mortensen-centre-conference",
+    "href": "workshops.html#the-5th-dale-t.-mortensen-centre-conference",
+    "title": "Workshops",
+    "section": "The 5th Dale T. Mortensen Centre Conference",
+    "text": "The 5th Dale T. Mortensen Centre Conference\nConference on Markets with Search Frictions.\nNovember 2–4, 2023 · Sandbjerg Manor, Denmark.\nWorkshop program"
+  },
+  {
+    "objectID": "workshops.html#interactions-between-labor-and-marriage-markets",
+    "href": "workshops.html#interactions-between-labor-and-marriage-markets",
+    "title": "Workshops",
+    "section": "Interactions between Labor and Marriage Markets",
+    "text": "Interactions between Labor and Marriage Markets\nWorkshop on Interactions between Labor and Marriage Markets.\nApril 6–8, 2022 · Søauditorierne, Aarhus University, Denmark.\nWorkshop program"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching & Supervision",
+    "section": "",
+    "text": "Lecture board sketch — families, workers, firms, and the labor market."
+  },
+  {
+    "objectID": "teaching.html#phd-students",
+    "href": "teaching.html#phd-students",
+    "title": "Teaching & Supervision",
+    "section": "PhD students",
+    "text": "PhD students\nAarhus University:\n\nSimon Sloth — 2025–2029 (expected)\nFynn Lohre — 2024–2027 (expected)\nFrederik Almar — 2022–2025. First job: Aarhus University.\nSimone Maria Bonin — 2018–2020. First job: The Danish National Bank."
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching & Supervision",
+    "section": "Courses",
+    "text": "Courses\n\nAarhus University\n\n(Advanced) Micro and Macro Models of the Labor Market (graduate) — Lecturer and Course Coordinator, since Spring 2024\nLabour Economics (graduate) — Lecturer and Course Coordinator, since Fall 2019\nInternational Economics (graduate) — Lecturer, Fall 2024-2025\nMonetary Economics (graduate) — Lecturer, Spring 2018–2020\nEconomics (undergraduate, macro part) — Lecturer, Fall 2018\n\n\n\nLMU Munich\n\nPublic Economics II (3rd-year undergrad) — TA, Winter 2015/16\nSeminar on Labor Market Policy (3rd-year undergrad) — TA, Summer 2015\nPublic Economics II (3rd-year undergrad) — TA, Summer 2015\nPublic Economics I (2nd-year undergrad) — TA, Winter 2013/14"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bastian Schulz",
+    "section": "",
+    "text": "I am an Associate Professor of Economics at the Department of Economics and Business Economics, Aarhus University, and the ECONAU data manager. I serve as an Associate Editor at Empirical Economics. I hold a PhD in Economics from LMU Munich.\nResearch interests: macroeconomics, labor and family economics, search and matching, inequality.\nAffiliations: IZA · CESifo · RFBerlin · GLO · PIREAU · CEFAU."
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Bastian Schulz",
+    "section": "Selected publications",
+    "text": "Selected publications\nEducational Ambition, Marital Sorting, and Inequality with Frederik Almar, Benjamin Friedrich, Ana Reynoso, and Rune Vejlin. Journal of Labor Economics, forthcoming.\nFirm Productivity, Wages, and Sorting with Ben Lochner. Journal of Labor Economics, 42(1), 2024.\nLabor Market Dynamics with Sorting Journal of Economic Dynamics and Control, 158, 2024.\nSee all publications →"
+  },
+  {
+    "objectID": "index.html#upcoming-presentations",
+    "href": "index.html#upcoming-presentations",
+    "title": "Bastian Schulz",
+    "section": "Upcoming presentations",
+    "text": "Upcoming presentations\n\nNorwegian School of Economics (NHH), Bergen — November 2026\nFamilies in Macroeconomics, London - September 2026\nKonstanz Macro-Labor Workshop, Konstanz - June 2026 (by coauthor)\nBSE Summer Forum, The Macroeconomics of Labor Markets, Barcelona — June 2026 (by coauthor)\nNew Developments in the Macroeconomics of Labor Markets, Nuremberg — June 2026"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Bastian Schulz",
+    "section": "News",
+    "text": "News\nJuly 2026 — Revised version of Job Displacement, Remarriage, and Marital Sorting is available.\nJune 2026 — New paper: first version of Joint Labor Search and the Tax-Transfer System is available.\nNovember 2025 — New grant from the Danish e-infrastructure Consortium (DeiC), including computation time at the European supercomputer LUMI.\nOctober 2025 — New grant from the Independent Research Fund Denmark for the project Disentangling the Interplay of Marriage, Divorce, Fertility, and Work (joint with Frederik Almar, Edoardo Ciscato, Hanno Foerster, Andrew Shephard, and Guanyi Wang).\nOctober 2025 — Educational Ambition, Marital Sorting, and Inequality accepted at Journal of Labor Economics.\nApril 2025 — Media coverage in Weekendavisen: Golddiggermyten.\nJanuary 2025 — New working paper: Families’ Career Investments and Firms’ Promotion Decisions — also out as NBER WP 33438, IZA DP 17367, and CESifo WP 11659."
   },
   {
     "objectID": "publications.html",
@@ -56,32 +126,18 @@
     "text": "Marriage and Divorce: The Role of Unemployment Insurance\nwith Fabian Siuda.\nJournal of Population Economics, 36(4), October 2023.\n[Journal website] [Accepted version] [Online Appendix]\nMedia coverage: Der Standard, Ökonomieblog · Frankfurter Allgemeine Sonntagszeitung\n\nThis paper examines how changes in household-level risk sharing affect the marriage market. We use a German unemployment insurance (UI) reform that tightened means-testing based on the partner’s income as our laboratory. The reduced generosity of UI increased the demand for household-level risk sharing, which lowered the attractiveness of individuals exposed to unemployment risk. Because unemployment risk correlates with non-German nationality, our main finding is that the UI reform led to a decrease in intermarriage. The 2004 expansion of the European Union had a comparable effect on intermarriage for the affected nationalities. Both reforms increased marital stability, which is consistent with a better selection of couples."
   },
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workshops",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Current Research",
     "section": "",
-    "text": "Sandbjerg Manor, 5th DTMC Conference venue. Photo: PodracerHH (Wikimedia, CC BY-SA 3.0).\nAarhus University has a rich history of organizing conferences on markets with search frictions. Dale T. Mortensen (Nobel laureate, 2010) started cooperating with Aarhus University researchers in the early 1980s, and conferences have been organised regularly since then. We continue this tradition today.\nBelow is a list of recent workshops I co-organized."
+    "text": "Presenting at the European Search and Matching Conference (SaM), May 2025."
   },
   {
-    "objectID": "workshops.html#the-1st-aarhus-workshop-on-labor-markets",
-    "href": "workshops.html#the-1st-aarhus-workshop-on-labor-markets",
-    "title": "Workshops",
-    "section": "The 1st Aarhus Workshop on Labor Markets",
-    "text": "The 1st Aarhus Workshop on Labor Markets\nThe workshop brings together researchers who study labor markets from various perspectives.\nOct 22–24, 2025 · Aarhus University, Denmark.\nWorkshop program\nA second edition is planned for 2027."
-  },
-  {
-    "objectID": "workshops.html#the-5th-dale-t.-mortensen-centre-conference",
-    "href": "workshops.html#the-5th-dale-t.-mortensen-centre-conference",
-    "title": "Workshops",
-    "section": "The 5th Dale T. Mortensen Centre Conference",
-    "text": "The 5th Dale T. Mortensen Centre Conference\nConference on Markets with Search Frictions.\nNovember 2–4, 2023 · Sandbjerg Manor, Denmark.\nWorkshop program"
-  },
-  {
-    "objectID": "workshops.html#interactions-between-labor-and-marriage-markets",
-    "href": "workshops.html#interactions-between-labor-and-marriage-markets",
-    "title": "Workshops",
-    "section": "Interactions between Labor and Marriage Markets",
-    "text": "Interactions between Labor and Marriage Markets\nWorkshop on Interactions between Labor and Marriage Markets.\nApril 6–8, 2022 · Søauditorierne, Aarhus University, Denmark.\nWorkshop program"
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Current Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nJob Displacement, Remarriage, and Marital Sorting\nwith Hanno Foerster and Tim Obermeier. Revised version, July 2026.\nR&R, American Economic Journal: Macroeconomics.\nOlder versions: [IZA DP No. 17335] [CESifo WP No. 11387] [CEP DP No. 2045], September 2024.\nPresented at (selection): NBER SI (Micro and Macro Perspectives of the Aggregate Labor Market), BSE Summer Forum (Income Dynamics and the Family), SED (Minneapolis), University of Copenhagen, UNC Chapel Hill, Western University, KU Leuven.\n\nThis paper provides new insights into marital sorting by combining quasi-experimental evidence with an equilibrium search-and-matching model of the marriage market. Leveraging Danish establishment closures, we show that job displacement leads individuals to separate from low-earning partners and rematch with higher-earning ones. These findings suggest a negative relationship between partners’ incomes in how couples match, whereas spouses’ incomes are positively correlated in the cross-section. We use the model to assess which mechanisms can account for this combination of patterns and draw three conclusions: (i) partners’ incomes are substitutes rather than complements in the marriage market; (ii) our findings are difficult to reconcile with one-dimensional but consistent with multidimensional matching; (iii) non-uniform sorting is unlikely to be the primary explanation. To highlight the quantitative relevance of our findings, we simulate how marital sorting shapes the transmission of individual inequality to between-household inequality, finding that it is amplified in a one-dimensional calibration and dampened in a multidimensional calibration of our model.\n\n\n\n\nJoint Labor Search and the Tax-Transfer System\nwith Piotr Denderski, Leo Kaas, and Nawid Siassi. June 2026.\n[Preliminary Draft]\nPresented at (selection): BSE Summer Forum 2026 (The Macroeconomics of Labor Markets), Families and Macroeconomics Conference 2025 (Edesheim/University of Mannheim), European Economic Association (Bordeaux), European Search and Matching Conference 2025 (Vilnius), DC Search and Matching Workshop 2024 (Washington DC).\n\nIn many countries, income is taxed at the household level with a progressive tax schedule. This paper analyzes the impact of joint progressive taxation for employment and wages of dual-earner households in the presence of labor market frictions. We develop a directed search model in which firms offer wage contracts to workers in single and couple households, anticipating that workers may quit into other jobs or non-employment in response to spousal income and the tax system. The model is calibrated to replicate job-finding, job-to-job transition, layoff and quit rates of the U.S. labor market, and a progressive joint tax schedule and UI benefits at the individual level. When comparing the benchmark economy to a counterfactual scenario with individual taxation, we find that replacing the tax rules for couples with those for singles reduces the share of non-employed workers by one-tenth. Furthermore, it increases wages by about 6 percent.\n\n\n\n\nFamilies’ Career Investments and Firms’ Promotion Decisions\nwith Frederik Almar, Benjamin Friedrich, Ana Reynoso, and Rune Vejlin. January 2025.\n[Paper] [Online Appendix]\nAlso: [NBER WP No. 33438] [IZA DP No. 17653] [CESifo WP No. 11659].\nMedia coverage: Kellogg Insight (1/10/2025).\nPresented at (selection): Stanford University, Yale University (Cowles Foundation conference), University of Wisconsin–Madison, Northwestern Kellogg, University of Michigan, Western University, US Census Bureau, UCLA, University of Mannheim, Columbia University, Arizona State University, ASSA meetings (San Antonio), Southern Economic Association (New Orleans), LMU Munich, Binghamton SUNY.\n\nThis paper studies how family and firm investments interact to explain gender gaps in career achievement. Using Danish administrative data, we first document novel evidence of this interaction through a “spousal effect” on firm-side career investments. This effect is accounted for by family labor supply choices that shape worker characteristics, which then influence firms’ training and promotion decisions. Our main theoretical contribution is to develop a quantitative life cycle model that captures these family-firm interactions through household formation, families’ joint career and fertility choices, and firms’ managerial training and promotion decisions. We then use the estimated model to show that the interaction between families and firms in the joint equilibrium of labor and marriage markets is important when evaluating firm-side and family-side policy interventions. We find that gender-equal parental leave and a managerial quota can both improve gender equality, but leave implies costly skill depreciation, whereas the quota raises aggregate welfare, in part through adjustments in marital sorting towards families that invest in women.\n\n\n\n\nMarriage and Divorce under Labor Market Uncertainty\nwith Christian Holzner. March 2023.\n[Paper]\nMedia coverage: Frankfurter Allgemeine Sonntagszeitung (14/1/2024, in German).\nPresented at (selection): NBER SI (Micro and Macro Perspectives of the Aggregate Labor Market), BSE Summer Forum (Income Dynamics and the Family), University of Mannheim, Helsinki GSE, Nordic Summer Symposium in Macroeconomics and Finance.\n\nMarried women’s greater allocation of time towards household chores and childcare suggests that an increase in their labor supply may result in reduced marital surplus and stability. This mechanism can explain persistent gender gaps in labor supply if the potential reduction is considered in decisions about reservation wages and job search efforts. An implication is that divorces may be caused by transitions into employment. This paper analyzes these “labor market divorces” in a novel model of simultaneous search in labor and marriage markets. Labor market search intensity choices depend on marital status and the partner’s type. The model matches key trends in German household survey data: declining marriage rates, increasing employment rates of married women, and a reduction of married women’s domestic time inputs. Our laboratory to quantify the role of labor market divorces is a period of rapid employment growth in Germany that started in the mid-2000s. This development in the labor market was not neutral with respect to marriage. Although more married women entering employment led to more divorces, the decrease in divorces caused by job loss among married men was greater, resulting in a net decrease in the overall divorce rate."
   },
   {
     "objectID": "contact.html",
@@ -89,61 +145,5 @@
     "title": "Contact",
     "section": "",
     "text": "Universitetsbyen, Aarhus University — opening day, 22 May 2026. Photo: AU Foto / Jens Hartmann Schmidt.\n\n\nEmail: bastian.schulz@econ.au.dk\nAffiliation:\nAarhus University\nDepartment of Economics and Business Economics\nUniversitetsbyen 51\n8000 Aarhus C, Denmark\nOn the web: GitHub · Aarhus University Pure · IZA · CESifo"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "My full CV is available as a PDF.\nDownload CV\nThe source is on GitHub — the link above always serves the latest version."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching & Supervision",
-    "section": "",
-    "text": "Lecture board sketch — families, workers, firms, and the labor market."
-  },
-  {
-    "objectID": "teaching.html#phd-students",
-    "href": "teaching.html#phd-students",
-    "title": "Teaching & Supervision",
-    "section": "PhD students",
-    "text": "PhD students\nAarhus University:\n\nSimon Sloth — 2025–2029 (expected)\nFynn Lohre — 2024–2027 (expected)\nFrederik Almar — 2022–2025. First job: Aarhus University.\nSimone Maria Bonin — 2018–2020. First job: The Danish National Bank."
-  },
-  {
-    "objectID": "teaching.html#courses",
-    "href": "teaching.html#courses",
-    "title": "Teaching & Supervision",
-    "section": "Courses",
-    "text": "Courses\n\nAarhus University\n\n(Advanced) Micro and Macro Models of the Labor Market (graduate) — Lecturer and Course Coordinator, since Spring 2024\nLabour Economics (graduate) — Lecturer and Course Coordinator, since Fall 2019\nInternational Economics (graduate) — Lecturer, Fall 2024-2025\nMonetary Economics (graduate) — Lecturer, Spring 2018–2020\nEconomics (undergraduate, macro part) — Lecturer, Fall 2018\n\n\n\nLMU Munich\n\nPublic Economics II (3rd-year undergrad) — TA, Winter 2015/16\nSeminar on Labor Market Policy (3rd-year undergrad) — TA, Summer 2015\nPublic Economics II (3rd-year undergrad) — TA, Summer 2015\nPublic Economics I (2nd-year undergrad) — TA, Winter 2013/14"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bastian Schulz",
-    "section": "",
-    "text": "I am an Associate Professor of Economics at the Department of Economics and Business Economics, Aarhus University, and the ECONAU data manager. I serve as an Associate Editor at Empirical Economics. I hold a PhD in Economics from LMU Munich.\nResearch interests: macroeconomics, labor and family economics, search and matching, inequality.\nAffiliations: IZA · CESifo · RFBerlin · GLO · PIREAU · CEFAU."
-  },
-  {
-    "objectID": "index.html#selected-publications",
-    "href": "index.html#selected-publications",
-    "title": "Bastian Schulz",
-    "section": "Selected publications",
-    "text": "Selected publications\nEducational Ambition, Marital Sorting, and Inequality with Frederik Almar, Benjamin Friedrich, Ana Reynoso, and Rune Vejlin. Journal of Labor Economics, forthcoming.\nFirm Productivity, Wages, and Sorting with Ben Lochner. Journal of Labor Economics, 42(1), 2024.\nLabor Market Dynamics with Sorting Journal of Economic Dynamics and Control, 158, 2024.\nSee all publications →"
-  },
-  {
-    "objectID": "index.html#upcoming-presentations",
-    "href": "index.html#upcoming-presentations",
-    "title": "Bastian Schulz",
-    "section": "Upcoming presentations",
-    "text": "Upcoming presentations\n\nNorwegian School of Economics (NHH), Bergen — November 2026\nFamilies in Macroeconomics, London - September 2026\nKonstanz Macro-Labor Workshop, Konstanz - June 2026 (by coauthor)\nBSE Summer Forum, The Macroeconomics of Labor Markets, Barcelona — June 2026 (by coauthor)\nNew Developments in the Macroeconomics of Labor Markets, Nuremberg — June 2026\nNordic Data Meeting, Uppsala — April 2026\nRockwool Foundation, Copenhagen — March 2026"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Bastian Schulz",
-    "section": "News",
-    "text": "News\nJanuary 2026 — Job Displacement, Remarriage, and Marital Sorting is under revision for American Economic Journal: Macroeconomics.\nNovember 2025 — New grant from the Danish e-infrastructure Consortium (DeiC), including computation time at the European supercomputer LUMI.\nOctober 2025 — New grant from the Independent Research Fund Denmark for the project Disentangling the Interplay of Marriage, Divorce, Fertility, and Work (joint with Frederik Almar, Edoardo Ciscato, Hanno Foerster, Andrew Shephard, and Guanyi Wang).\nOctober 2025 — Educational Ambition, Marital Sorting, and Inequality accepted at Journal of Labor Economics.\nApril 2025 — Media coverage in Weekendavisen: Golddiggermyten.\nJanuary 2025 — New working paper: Families’ Career Investments and Firms’ Promotion Decisions — also out as NBER WP 33438, IZA DP 17367, and CESifo WP 11659."
   }
 ]

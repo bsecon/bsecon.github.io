@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,14 +42,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-bba5ebae505b5c03f3f0d8040a416a6b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-ef329cdfec84d61f1b09d4029da25417.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-bba5ebae505b5c03f3f0d8040a416a6b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3e9b1289f5f353c49b617ce48ad2bc38.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-a515e054079012129989d5397ee3c9c1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-3e9b1289f5f353c49b617ce48ad2bc38.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -323,8 +326,8 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#working-papers" id="toc-working-papers" class="nav-link active" data-scroll-target="#working-papers">Working Papers</a>
   <ul class="collapse">
-  <li><a href="#joint-labor-search-and-the-tax-transfer-system" id="toc-joint-labor-search-and-the-tax-transfer-system" class="nav-link" data-scroll-target="#joint-labor-search-and-the-tax-transfer-system">Joint Labor Search and the Tax-Transfer System</a></li>
   <li><a href="#job-displacement-remarriage-and-marital-sorting" id="toc-job-displacement-remarriage-and-marital-sorting" class="nav-link" data-scroll-target="#job-displacement-remarriage-and-marital-sorting">Job Displacement, Remarriage, and Marital Sorting</a></li>
+  <li><a href="#joint-labor-search-and-the-tax-transfer-system" id="toc-joint-labor-search-and-the-tax-transfer-system" class="nav-link" data-scroll-target="#joint-labor-search-and-the-tax-transfer-system">Joint Labor Search and the Tax-Transfer System</a></li>
   <li><a href="#families-career-investments-and-firms-promotion-decisions" id="toc-families-career-investments-and-firms-promotion-decisions" class="nav-link" data-scroll-target="#families-career-investments-and-firms-promotion-decisions">Families’ Career Investments and Firms’ Promotion Decisions</a></li>
   <li><a href="#marriage-and-divorce-under-labor-market-uncertainty" id="toc-marriage-and-divorce-under-labor-market-uncertainty" class="nav-link" data-scroll-target="#marriage-and-divorce-under-labor-market-uncertainty">Marriage and Divorce under Labor Market Uncertainty</a></li>
   </ul></li>
@@ -362,24 +365,24 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="working-papers" class="level2">
 <h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
-<section id="joint-labor-search-and-the-tax-transfer-system" class="level3">
-<h3 class="anchored" data-anchor-id="joint-labor-search-and-the-tax-transfer-system">Joint Labor Search and the Tax-Transfer System</h3>
-<p>with <a href="https://sites.google.com/site/piotrdenderski/">Piotr Denderski</a>, <a href="https://sites.google.com/site/leojkaas/">Leo Kaas</a>, and <a href="http://jsiassi.de/nsiassi/">Nawid Siassi</a>. June 2026.</p>
-<p>[<a href="https://github.com/bsecon/Papers/raw/master/DKSS_JointSearch.pdf">Preliminary Draft</a>]</p>
-<p>Presented at (selection): Families and Macroeconomics Conference 2025 (Edesheim/University of Mannheim), European Economic Association (Bordeaux), European Search and Matching Conference 2025 (Vilnius), Third DC Search and Matching Workshop (poster), Goethe University Frankfurt, German Economic Association (Verein für Socialpolitik).</p>
-<blockquote class="blockquote">
-<p>In many countries, income is taxed at the household level with a progressive tax schedule. This paper analyzes the impact of joint progressive taxation for employment and wages of dual-earner households in the presence of labor market frictions. We develop a directed search model in which firms offer wage contracts to workers in single and couple households, anticipating that workers may quit into other jobs or non-employment in response to spousal income and the tax system. The model is calibrated to replicate job-finding, job-to-job transition, layoff and quit rates of the U.S. labor market, and a progressive joint tax schedule and UI benefits at the individual level. When comparing the benchmark economy to a counterfactual scenario with individual taxation, we find that replacing the tax rules for couples with those for singles reduces the share of non-employed workers by one-tenth. Furthermore, it increases wages by about 6 percent.</p>
-</blockquote>
-<hr>
-</section>
 <section id="job-displacement-remarriage-and-marital-sorting" class="level3">
 <h3 class="anchored" data-anchor-id="job-displacement-remarriage-and-marital-sorting">Job Displacement, Remarriage, and Marital Sorting</h3>
-<p>with <a href="http://hannofoerster.com/">Hanno Foerster</a> and <a href="https://sites.google.com/view/timobermeier/home">Tim Obermeier</a>. August 2025.</p>
+<p>with <a href="http://hannofoerster.com/">Hanno Foerster</a> and <a href="https://sites.google.com/view/timobermeier/home">Tim Obermeier</a>. Revised version, July 2026.</p>
 <p>R&amp;R, <em>American Economic Journal: Macroeconomics</em>.</p>
 <p>Older versions: [<a href="https://docs.iza.org/dp17335.pdf">IZA DP No.&nbsp;17335</a>] [<a href="https://www.cesifo.org/en/publications/2024/working-paper/job-displacement-remarriage-and-marital-sorting">CESifo WP No.&nbsp;11387</a>] [<a href="https://cep.lse.ac.uk/_new/publications/abstract.asp?index=11224">CEP DP No.&nbsp;2045</a>], September 2024.</p>
 <p>Presented at (selection): NBER SI (Micro and Macro Perspectives of the Aggregate Labor Market), BSE Summer Forum (Income Dynamics and the Family), SED (Minneapolis), University of Copenhagen, UNC Chapel Hill, Western University, KU Leuven.</p>
 <blockquote class="blockquote">
-<p>We investigate how job displacement affects whom men marry and study implications for marriage market matching theory. Leveraging quasi-experimental variation from Danish establishment closures, we show that job displacement leads men to break up if matched with low-earning women and to re-match with higher earning women. We use a general search and matching model of the marriage market to derive several implications of our empirical findings: (i) husbands’ and wives’ incomes are substitutes rather than complements in the marriage market; (ii) our findings are hard to reconcile with one-dimensional matching but are consistent with multidimensional matching; (iii) a substantial part of the cross-sectional correlation between spouses’ incomes arises spuriously from sorting on unobserved characteristics. We highlight the quantitative importance of our findings by simulating how patterns of marital sorting either amplify or dampen the transmission of individual-level inequality to between-household inequality.</p>
+<p>This paper provides new insights into marital sorting by combining quasi-experimental evidence with an equilibrium search-and-matching model of the marriage market. Leveraging Danish establishment closures, we show that job displacement leads individuals to separate from low-earning partners and rematch with higher-earning ones. These findings suggest a negative relationship between partners’ incomes in how couples match, whereas spouses’ incomes are positively correlated in the cross-section. We use the model to assess which mechanisms can account for this combination of patterns and draw three conclusions: (i) partners’ incomes are substitutes rather than complements in the marriage market; (ii) our findings are difficult to reconcile with one-dimensional but consistent with multidimensional matching; (iii) non-uniform sorting is unlikely to be the primary explanation. To highlight the quantitative relevance of our findings, we simulate how marital sorting shapes the transmission of individual inequality to between-household inequality, finding that it is amplified in a one-dimensional calibration and dampened in a multidimensional calibration of our model.</p>
+</blockquote>
+<hr>
+</section>
+<section id="joint-labor-search-and-the-tax-transfer-system" class="level3">
+<h3 class="anchored" data-anchor-id="joint-labor-search-and-the-tax-transfer-system">Joint Labor Search and the Tax-Transfer System</h3>
+<p>with <a href="https://sites.google.com/site/piotrdenderski/">Piotr Denderski</a>, <a href="https://sites.google.com/site/leojkaas/">Leo Kaas</a>, and <a href="http://jsiassi.de/nsiassi/">Nawid Siassi</a>. June 2026.</p>
+<p>[<a href="https://github.com/bsecon/Papers/raw/master/DKSS_JointSearch.pdf">Preliminary Draft</a>]</p>
+<p>Presented at (selection): BSE Summer Forum 2026 (The Macroeconomics of Labor Markets), Families and Macroeconomics Conference 2025 (Edesheim/University of Mannheim), European Economic Association (Bordeaux), European Search and Matching Conference 2025 (Vilnius), DC Search and Matching Workshop 2024 (Washington DC).</p>
+<blockquote class="blockquote">
+<p>In many countries, income is taxed at the household level with a progressive tax schedule. This paper analyzes the impact of joint progressive taxation for employment and wages of dual-earner households in the presence of labor market frictions. We develop a directed search model in which firms offer wage contracts to workers in single and couple households, anticipating that workers may quit into other jobs or non-employment in response to spousal income and the tax system. The model is calibrated to replicate job-finding, job-to-job transition, layoff and quit rates of the U.S. labor market, and a progressive joint tax schedule and UI benefits at the individual level. When comparing the benchmark economy to a counterfactual scenario with individual taxation, we find that replacing the tax rules for couples with those for singles reduces the share of non-employed workers by one-tenth. Furthermore, it increases wages by about 6 percent.</p>
 </blockquote>
 <hr>
 </section>
