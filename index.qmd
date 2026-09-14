@@ -76,14 +76,14 @@ with Ben Lochner.
 - Konstanz Macro-Labor Workshop, Konstanz - June 2026 *(by coauthor)*
 - BSE Summer Forum, *The Macroeconomics of Labor Markets*, Barcelona — June 2026 *(by coauthor)*
 - New Developments in the Macroeconomics of Labor Markets, Nuremberg — June 2026
-- Nordic Data Meeting, Uppsala — April 2026
-- Rockwool Foundation, Copenhagen — March 2026
 
 ---
 
 ## News
 
-**January 2026** — [Job Displacement, Remarriage, and Marital Sorting](https://github.com/bsecon/Papers/raw/master/FOS_Jobloss_Marriage.pdf) is under revision for *American Economic Journal: Macroeconomics*.
+**July 2026** — Revised version of [Job Displacement, Remarriage, and Marital Sorting](https://github.com/bsecon/Papers/raw/master/FOS_Jobloss_Marriage.pdf) is available.
+
+**June 2026** — New paper: first version of [Joint Labor Search and the Tax-Transfer System](https://github.com/bsecon/Papers/raw/master/DKSS_JointSearch.pdf) is available.
 
 **November 2025** — New grant from the [Danish e-infrastructure Consortium](https://www.deic.dk/en/front) (DeiC), including computation time at the European supercomputer [LUMI](https://www.lumi-supercomputer.eu/).
 

@@ -6,21 +6,9 @@ title: "Current Research"
 
 ## Working Papers
 
-### Joint Labor Search and the Tax-Transfer System
-
-with [Piotr Denderski](https://sites.google.com/site/piotrdenderski/), [Leo Kaas](https://sites.google.com/site/leojkaas/), and [Nawid Siassi](http://jsiassi.de/nsiassi/). June 2026.
-
-[[Preliminary Draft](https://github.com/bsecon/Papers/raw/master/DKSS_JointSearch.pdf)]
-
-Presented at (selection): Families and Macroeconomics Conference 2025 (Edesheim/University of Mannheim), European Economic Association (Bordeaux), European Search and Matching Conference 2025 (Vilnius), Third DC Search and Matching Workshop (poster), Goethe University Frankfurt, German Economic Association (Verein für Socialpolitik).
-
-> In many countries, income is taxed at the household level with a progressive tax schedule. This paper analyzes the impact of joint progressive taxation for employment and wages of dual-earner households in the presence of labor market frictions. We develop a directed search model in which firms offer wage contracts to workers in single and couple households, anticipating that workers may quit into other jobs or non-employment in response to spousal income and the tax system. The model is calibrated to replicate job-finding, job-to-job transition, layoff and quit rates of the U.S. labor market, and a progressive joint tax schedule and UI benefits at the individual level. When comparing the benchmark economy to a counterfactual scenario with individual taxation, we find that replacing the tax rules for couples with those for singles reduces the share of non-employed workers by one-tenth. Furthermore, it increases wages by about 6 percent.
-
----
-
 ### Job Displacement, Remarriage, and Marital Sorting
 
-with [Hanno Foerster](http://hannofoerster.com/) and [Tim Obermeier](https://sites.google.com/view/timobermeier/home). August 2025.
+with [Hanno Foerster](http://hannofoerster.com/) and [Tim Obermeier](https://sites.google.com/view/timobermeier/home). Revised version, July 2026.
 
 R&R, *American Economic Journal: Macroeconomics*.
 
@@ -28,7 +16,19 @@ Older versions: [[IZA DP No. 17335](https://docs.iza.org/dp17335.pdf)] [[CESifo 
 
 Presented at (selection): NBER SI (Micro and Macro Perspectives of the Aggregate Labor Market), BSE Summer Forum (Income Dynamics and the Family), SED (Minneapolis), University of Copenhagen, UNC Chapel Hill, Western University, KU Leuven.
 
-> We investigate how job displacement affects whom men marry and study implications for marriage market matching theory. Leveraging quasi-experimental variation from Danish establishment closures, we show that job displacement leads men to break up if matched with low-earning women and to re-match with higher earning women. We use a general search and matching model of the marriage market to derive several implications of our empirical findings: (i) husbands' and wives' incomes are substitutes rather than complements in the marriage market; (ii) our findings are hard to reconcile with one-dimensional matching but are consistent with multidimensional matching; (iii) a substantial part of the cross-sectional correlation between spouses' incomes arises spuriously from sorting on unobserved characteristics. We highlight the quantitative importance of our findings by simulating how patterns of marital sorting either amplify or dampen the transmission of individual-level inequality to between-household inequality.
+> This paper provides new insights into marital sorting by combining quasi-experimental evidence with an equilibrium search-and-matching model of the marriage market. Leveraging Danish establishment closures, we show that job displacement leads individuals to separate from low-earning partners and rematch with higher-earning ones. These findings suggest a negative relationship between partners' incomes in how couples match, whereas spouses' incomes are positively correlated in the cross-section. We use the model to assess which mechanisms can account for this combination of patterns and draw three conclusions: (i) partners' incomes are substitutes rather than complements in the marriage market; (ii) our findings are difficult to reconcile with one-dimensional but consistent with multidimensional matching; (iii) non-uniform sorting is unlikely to be the primary explanation. To highlight the quantitative relevance of our findings, we simulate how marital sorting shapes the transmission of individual inequality to between-household inequality, finding that it is amplified in a one-dimensional calibration and dampened in a multidimensional calibration of our model.
+
+---
+
+### Joint Labor Search and the Tax-Transfer System
+
+with [Piotr Denderski](https://sites.google.com/site/piotrdenderski/), [Leo Kaas](https://sites.google.com/site/leojkaas/), and [Nawid Siassi](http://jsiassi.de/nsiassi/). June 2026.
+
+[[Preliminary Draft](https://github.com/bsecon/Papers/raw/master/DKSS_JointSearch.pdf)]
+
+Presented at (selection): BSE Summer Forum 2026 (The Macroeconomics of Labor Markets), Families and Macroeconomics Conference 2025 (Edesheim/University of Mannheim), European Economic Association (Bordeaux), European Search and Matching Conference 2025 (Vilnius), DC Search and Matching Workshop 2024 (Washington DC).
+
+> In many countries, income is taxed at the household level with a progressive tax schedule. This paper analyzes the impact of joint progressive taxation for employment and wages of dual-earner households in the presence of labor market frictions. We develop a directed search model in which firms offer wage contracts to workers in single and couple households, anticipating that workers may quit into other jobs or non-employment in response to spousal income and the tax system. The model is calibrated to replicate job-finding, job-to-job transition, layoff and quit rates of the U.S. labor market, and a progressive joint tax schedule and UI benefits at the individual level. When comparing the benchmark economy to a counterfactual scenario with individual taxation, we find that replacing the tax rules for couples with those for singles reduces the share of non-employed workers by one-tenth. Furthermore, it increases wages by about 6 percent.
 
 ---
 
